@@ -1,4 +1,11 @@
 #!/usr/bin/env python
+"""
+Recipe from `Fill Paragraph (Python recipe)`_
+
+.. _Fill Paragraph (Python recipe):
+    http://code.activestate.com/recipes/134571-fill-paragraph/
+
+"""
 from __future__ import unicode_literals
 import argparse
 import re
